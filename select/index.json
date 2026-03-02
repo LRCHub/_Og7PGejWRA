@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "輝きだして走ってく",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T14:40:49.093461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "輝きだして走ってく",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/01_輝きだして走ってく_Sambomaster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輝きだして走ってく",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_輝きだして走ってく_サンボマスター.txt"
+    }
+  ]
+}
